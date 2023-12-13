@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d1eanna
+- 👋 Hi, I’m Anna
 - 👀 I’m interested in learning how to write a code
 - 🌱 I’m currently learning python
 
